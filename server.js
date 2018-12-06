@@ -18,7 +18,7 @@ var server = http.createServer(function (req, res)
 			res.end();
 		});
 	}
-	else if (req.url === '/css/j1A.css')
+	else if (req.url === '/static/css/j1A.css')
 	{
 		fs.readFile('j1A.css', function(err, data)
 	{
