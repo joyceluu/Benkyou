@@ -1,5 +1,3 @@
-
-
 var http = require('http');
 var fs = require('fs');
 const hostname = '0.0.0.0';
@@ -7,7 +5,7 @@ var port = process.env.PORT || 3000;
 var express = require('express');
 var app = express();
 
-app.use(express.static('css'));
+app.use('/static', express.static('static'));
 
 var server = http.createServer(function (req, res)
 {
