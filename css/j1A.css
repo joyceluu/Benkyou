@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Text+Me+One');
+
+.header
+{
+	color: #e59b12;
+	background-color: transparent; 
+	font-family: 'Text Me One', sans-serif;
+}
+
+.box
+{
+	width: 500px;
+	height: 500px;
+	margin: auto;
+	margin-top: 5%;
+}
+
+.button
+{
+	background-color: white;
+	border: 2px solid #ba7b05;
+	color: #ba7b05;
+	border-radius: 50px;
+}
+
+.eng
+{
+	font-size: 15px;
+	font-family: 'Text Me One', sans-serif;
+}
+
+.question
+{
+	width: 400px;
+	height: 200px;
+	margin: auto;
+	padding: 10px;
+	padding-top: 70px;
+	background: white;
+	font-size: 24px;
+}
+
+.bg {
+	background: linear-gradient(#ffe177, #c61515);
+	width:405px;
+	margin:auto;
+	height:205px;
+	margin-top:;
+	padding-top: 2px;
+	margin-bottom: 1%;
+}
+
+.note
+{
+	background-color: #cccccc;
+	font-size: 10px;
+	width: 195px;
+	height: 50px;
+	padding: 5px;
+	bottom: 0;
+}
+
+.note a
+{
+	color: #a80f0f;
+}
+
+.note a:hover
+{
+	color: white;
+	text-decoration: none;
+}
