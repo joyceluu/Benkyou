@@ -1,3 +1,4 @@
+
 $(document).ready(function()
 {
 	$.get('./questions.text', function(data)
