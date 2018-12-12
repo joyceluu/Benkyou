@@ -1,8 +1,8 @@
-# InterviewMe
+# Benkyou
 
 <b> Study live [here](https://japanese-1a-practice-bot.herokuapp.com/)! </b>
 
-Interview Me (name pending, will probably change) is a study tool designed for students enrolled in UCI's introductory Japanese Language courses (1A, 1B, 1C).
+Benkyou is a study tool designed for students enrolled in UCI's introductory Japanese Language courses (1A, 1B, 1C). Originally started as a small web application with the intent to help students study for the end-of-quarter live interview and reading assessments.
 
 Currently a WIP, site is not functional yet.
 
