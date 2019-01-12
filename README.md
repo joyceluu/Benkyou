@@ -4,7 +4,7 @@
 
 Benkyou is a study tool designed for students enrolled in UCI's introductory Japanese Language courses (1A, 1B, 1C). Originally started as a small web application with the intent to help students study for the end-of-quarter live interview and reading assessments.
 
-Currently a WIP, site is not functional yet.
+Currently a WIP, questions are up for 1A!
 
 # Technologies
 * Node.js
