@@ -13,7 +13,7 @@ Currently a WIP, questions are up for 1A!
 * Heroku
 
 # To-do:
-[ ] Vocabulary list
-[ ] 1A - 1B verb list
-[ ] Adjectives and conjugations
-[ ] Grammar patterns
+- [ ] Vocabulary list
+- [ ] 1A - 1B verb list
+- [ ] Adjectives and conjugations
+- [ ] Grammar patterns
